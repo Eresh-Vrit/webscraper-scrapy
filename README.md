@@ -6,6 +6,10 @@ discovered routes and scraped page data to a single Markdown report.
 ## Usage
 
 ```bash
+uv run sync
+```
+
+```bash
 uv run web-scraper https://example.com
 ```
 
