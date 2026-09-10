@@ -6,10 +6,12 @@ discovered routes and scraped page data to a single Markdown report.
 ## Usage
 
 ```bash
-uv run sync
+Installation
+uv sync
 ```
 
 ```bash
+To run:
 uv run web-scraper https://example.com
 ```
 
